@@ -4,3 +4,4 @@ Centered body plus #container
 Trying to align the bottom promo pictures
 
 Putting in the finishing touches
+Modified the css with aligning photos
