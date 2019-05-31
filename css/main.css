@@ -60,14 +60,16 @@ p {
 	padding-left: 5px;
 }
 
-.first img {
-	display: inline-block;
+.first {
 	flex-direction: row;
-	justify-content: center;
+	justify-content: space-between;
+	float: right;
+}
 
+.first img {
 	width: 430px;
 	height: 247px;
-	margin: 0 0 39px 0;
+	margin: 0 80px 39px 0;
 }
 
 .trout h2 {
