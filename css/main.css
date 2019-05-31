@@ -10,16 +10,17 @@ h1 {
 	font-size: 50px;
 	color: "black";
 	letter-spacing: 1px;
-	margin-top: 20px;
-	padding-left: 
+	margin: 39px 100px 39px 120px;
+	color: #611417;
 }
 
 .caps {
 	font-size: 100px;
 	font-weight: 400;
 	line-height: 70px;
-	float: left;
 	margin: 5px 10px 0 0;
+	float: left;
+	color: #611417;
 }
 
 p {
@@ -27,6 +28,7 @@ p {
 	font-size: 17px;
 	line-height: 28px;
 	font-weight: 300;
+	margin: 0 0 39px 0;
 }
 
 .hero-image img{
@@ -41,4 +43,42 @@ p {
 	display: flex;
 	margin: 0;
 	padding: 0;
+}
+
+.traa h2 {
+	color: #611417;
+	font-size: 25px;
+	margin: 39px 0 0 0;
+}
+
+.special {
+	font-size: 40px;
+	border: solid;
+}
+
+.space {
+	padding-left: 5px;
+}
+
+.first img {
+	display: inline-block;
+	flex-direction: row;
+	justify-content: center;
+
+	width: 430px;
+	height: 247px;
+	margin: 0 0 39px 0;
+}
+
+.trout h2 {
+	font-size: 25px;
+	color: #611417;
+}
+
+.trout p {
+	margin: 39px 0 39px 0;
+}
+
+.copy {
+	float: right;
 }
